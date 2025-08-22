@@ -1,4 +1,4 @@
-# Clash Stair | 8月19日21.7M/S|免费V2ray/SSR/Clash/Shadowrocket节点推荐，在线Clash机场梯子购买推荐  更新时间 2025-08-19 20:16:53
+# Clash Stair | 8月21日21.5M/S|免费Clash/V2ray/Shadowrocket/SSR节点推荐，在线Clash机场梯子购买推荐  更新时间 2025-08-21 19:57:13
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://clashstair.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://clashstair.github.io/uploads/2025/08/0-20250819.yaml
-- https://clashstair.github.io/uploads/2025/08/1-20250819.yaml
-- https://clashstair.github.io/uploads/2025/08/2-20250819.yaml
-- https://clashstair.github.io/uploads/2025/08/3-20250819.yaml
-- https://clashstair.github.io/uploads/2025/08/4-20250819.yaml
+- https://clashstair.github.io/uploads/2025/08/0-20250821.yaml
+- https://clashstair.github.io/uploads/2025/08/1-20250821.yaml
+- https://clashstair.github.io/uploads/2025/08/2-20250821.yaml
+- https://clashstair.github.io/uploads/2025/08/3-20250821.yaml
+- https://clashstair.github.io/uploads/2025/08/4-20250821.yaml
 
 ### V2ray订阅链接
 
-- https://clashstair.github.io/uploads/2025/08/0-20250819.txt
-- https://clashstair.github.io/uploads/2025/08/1-20250819.txt
-- https://clashstair.github.io/uploads/2025/08/2-20250819.txt
-- https://clashstair.github.io/uploads/2025/08/3-20250819.txt
-- https://clashstair.github.io/uploads/2025/08/4-20250819.txt
+- https://clashstair.github.io/uploads/2025/08/0-20250821.txt
+- https://clashstair.github.io/uploads/2025/08/1-20250821.txt
+- https://clashstair.github.io/uploads/2025/08/2-20250821.txt
+- https://clashstair.github.io/uploads/2025/08/3-20250821.txt
+- https://clashstair.github.io/uploads/2025/08/4-20250821.txt
 
 ### Sing-box订阅链接
 
-- https://clashstair.github.io/uploads/2025/08/20250819.json
+- https://clashstair.github.io/uploads/2025/08/20250821.json
 
 ## 更多clash节点订阅 ：
 
